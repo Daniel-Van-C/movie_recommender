@@ -1,4 +1,4 @@
-# IMDb Favourites-Based Movie Recommender (Streamlit, OOP)
+# IMDb Favourites-Based Movie Recommender
 
 A lightweight, production-style Streamlit app that lets you:
 - **Search** IMDb movies and mark **favourites**.
